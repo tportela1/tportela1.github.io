@@ -1,4 +1,4 @@
-baseurl = "https://www.tportela1.github.io/"
+baseurl = "http://tportela.me"
 title = "Teresa Portela"
 
 theme = "hugo-coder."

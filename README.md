@@ -5,3 +5,5 @@ Static HTML/CSS website, published by GitHub Pages from the master branch. No bu
 Preview: `python -m http.server 8768`
 
 Main pages: index.html, about/index.html, projects/index.html. Shared styles: css/personal.css. Guardian recognition is preserved on the Projects page. Original repository history retains the previous Hugo-generated site. Current title and employer were supplied by Teresa.
+
+Writing titles, publication dates, and summaries verified through the public DEV API for tportela1. Community involvement sourced to Teresa’s public LinkedIn profile. Internal Capital One awards and LeadHERship1 graduation supplied directly by Teresa; no completion year or award criteria inferred.
